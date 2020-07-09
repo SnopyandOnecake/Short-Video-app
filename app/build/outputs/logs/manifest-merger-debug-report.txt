@@ -1,0 +1,655 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:2:1-90:12
+MERGED from [:libnetwork] /Users/xixiao/Desktop/ppjoke_jetpack/libnetwork/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:libcommon] /Users/xixiao/Desktop/ppjoke_jetpack/libcommon/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.databinding:databinding-adapters:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/31073a0e57cc212739f4997e886ea889/databinding-adapters-4.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/1b40b10646e1bbb56fb74034648b9b9e/databinding-runtime-4.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.tencent.bugly:crashreport:3.2.33] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/d23f06ed85dc74998a3a6ab00324930c/jetified-crashreport-3.2.33/AndroidManifest.xml:2:1-9:12
+MERGED from [com.tencent.bugly:nativecrashreport:3.7.3] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/b56c47970c1e191226e6350f8a416bff/jetified-nativecrashreport-3.7.3/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:viewbinding:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/fbee8d91505582d78dab4b49b9cc403a/jetified-viewbinding-4.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3e6bb3c4d4f30e5f344ee68dfd049280/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c968d98bc843f5f5ecd004ecc1ea62b3/navigation-ui-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e78126a3ce017b20ba7b2e0646049400/material-1.1.0-alpha10/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/6d6bcba9f9bef21bedeeb83ca314447b/paging-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:17:1-125:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/cc5eda12d228b0120441f187d5584b9e/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c2c5fa787d66aaf40578b3071f4d283f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/dfc584bb98d44671f7272140198b0d1e/jetified-viewpager2-1.0.0-beta04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e69576f74967f348b78ad3870e6b9a60/jetified-camera-extensions-1.0.0-alpha01/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/21e07f321d686ee6422427428d1fbfd2/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.camera:camera-view:1.0.0-alpha01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/a6240b56e9fcd7b0b7bf5d146de8467d/jetified-camera-view-1.0.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-core:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3935728f04bd1a5f5c25cde6bdf7fcbb/jetified-camera-core-1.0.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/23132ce1e9bbd5749d1d381c1fea5d8f/navigation-fragment-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [jp.wasabeef:glide-transformations:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3097c15b6724aedf3582386982d24203/jetified-glide-transformations-4.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/67f378d049e7b927e729a0d52cd59f45/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/ce61250d0f7070aaab97d5c03ab2ab2e/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7c534088c709ef4f962350c99f0510e9/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/603f8204768ec04e03f1b3e543e85b89/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/109eb7929d2c21321f3827b396ef7c6f/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/5dfd2e663b9c8b18251af4849131ec46/recyclerview-1.1.0-beta04/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/bbb11719e6791100720664866fdfc13b/jetified-exoplayer-ui-2.10.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/607115a1eafd85ccd65a595bfecfc1bb/media-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/54c074c5e39c1061cef77282dab65b2a/room-runtime-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/6c40941472a486997a18100917790e72/navigation-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4d3e32c2f901863288c7ff80fcf0967a/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7429b8342d321250725a19af88db2235/navigation-common-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3f5e37635a712470204c0315e55f1003/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/28120aa98d624ce8fee0a8087788fd91/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c1fbafa65bd45850c449ff129cec1a93/jetified-SmartRefreshLayout-1.1.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/6dfb5b92b7af1316fe38f4f11dc0943a/jetified-SmartRefreshHeader-1.1.0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/58c832db834fd7e5b3ccad67f8d33bec/jetified-exoplayer-dash-2.10.4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/0567ec7a02e0473e609a46a5eb8f1373/jetified-exoplayer-core-2.10.4/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c318c6766edaf70f62fb727156c74a21/jetified-PhotoView-2.3.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/389cbd790a4c7e86ea81c66bce6c17d8/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/d9143d5fb766579ba5099f005b20a9e9/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/de7b0c2f4705e3cb372b76d33c6f36f6/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/552d05fff7df0b1caee9db39c74659fe/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c53a1cf06eec9ec8e2c1fa79d76edf7f/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/124fad7feed294284b24345c102d722e/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/0eaeed0f116c50443b846f22ed279353/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/724535e2902278ed959fd2cad81fabac/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/f2a178a1dfd656fb19b4757d0d712846/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:2:1-90:12
+	package
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:2:1-90:12
+		INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:2:1-90:12
+		INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:11:5-67
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:26:5-79
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:12:5-79
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/0567ec7a02e0473e609a46a5eb8f1373/jetified-exoplayer-core-2.10.4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/0567ec7a02e0473e609a46a5eb8f1373/jetified-exoplayer-core-2.10.4/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:14:5-81
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:11:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:13:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:13:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:14:22-65
+application
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:17:5-88:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3e6bb3c4d4f30e5f344ee68dfd049280/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3e6bb3c4d4f30e5f344ee68dfd049280/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e78126a3ce017b20ba7b2e0646049400/material-1.1.0-alpha10/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e78126a3ce017b20ba7b2e0646049400/material-1.1.0-alpha10/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:29:5-123:19
+MERGED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:29:5-123:19
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e69576f74967f348b78ad3870e6b9a60/jetified-camera-extensions-1.0.0-alpha01/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e69576f74967f348b78ad3870e6b9a60/jetified-camera-extensions-1.0.0-alpha01/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/21e07f321d686ee6422427428d1fbfd2/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/21e07f321d686ee6422427428d1fbfd2/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/67f378d049e7b927e729a0d52cd59f45/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/67f378d049e7b927e729a0d52cd59f45/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/54c074c5e39c1061cef77282dab65b2a/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/54c074c5e39c1061cef77282dab65b2a/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:17:5-20:19
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:17:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/28120aa98d624ce8fee0a8087788fd91/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/28120aa98d624ce8fee0a8087788fd91/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c1fbafa65bd45850c449ff129cec1a93/jetified-SmartRefreshLayout-1.1.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c1fbafa65bd45850c449ff129cec1a93/jetified-SmartRefreshLayout-1.1.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/6dfb5b92b7af1316fe38f4f11dc0943a/jetified-SmartRefreshHeader-1.1.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/6dfb5b92b7af1316fe38f4f11dc0943a/jetified-SmartRefreshHeader-1.1.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/124fad7feed294284b24345c102d722e/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/124fad7feed294284b24345c102d722e/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:22:9-49
+	android:icon
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:20:9-44
+	android:allowBackup
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:24:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:18:9-40
+uses-library#org.apache.http.legacy
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:27:9-29:40
+	android:required
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:28:13-50
+activity#com.mooc.ppjoke.MainActivity
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:31:9-40:20
+	android:label
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:33:13-45
+	android:theme
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:38:27-74
+activity#com.mooc.ppjoke.ui.publish.PublishActivity
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:42:9-44:61
+	android:screenOrientation
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:43:13-55
+activity#com.mooc.ppjoke.ui.publish.CaptureActivity
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:45:9-48:55
+	android:screenOrientation
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:47:13-49
+	android:theme
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:48:13-43
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:46:13-55
+activity#com.mooc.ppjoke.ui.publish.PreviewActivity
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:50:9-53:55
+	android:screenOrientation
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:52:13-49
+	android:theme
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:53:13-43
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:51:13-55
+activity#com.mooc.ppjoke.ui.login.LoginActivity
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:55:9-69
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:55:19-57
+activity#com.mooc.ppjoke.ui.detail.FeedDetailActivity
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:57:9-60:58
+	android:screenOrientation
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:59:13-49
+	android:theme
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:60:13-46
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:58:13-57
+activity#com.mooc.ppjoke.ui.find.TagFeedListActivity
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:62:9-74
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:62:19-62
+activity#com.mooc.ppjoke.ui.my.ProfileActivity
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:64:9-68
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:64:19-56
+activity#com.mooc.ppjoke.ui.my.UserBehaviorListActivity
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:66:9-77
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:66:19-65
+activity#com.tencent.tauth.AuthActivity
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:70:9-83:20
+	android:screenOrientation
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:74:13-49
+	android:launchMode
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:72:13-44
+	android:noHistory
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:71:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tencent101794421
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:75:13-82:29
+action#android.intent.action.VIEW
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:76:17-69
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:76:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:78:17-76
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:78:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:79:17-78
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:79:27-75
+data
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:81:17-59
+	android:scheme
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:81:23-56
+activity#com.tencent.connect.common.AssistActivity
+ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:84:9-86:75
+	android:theme
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:86:13-72
+	android:name
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml:85:13-69
+uses-sdk
+INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+MERGED from [:libnetwork] /Users/xixiao/Desktop/ppjoke_jetpack/libnetwork/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:libnetwork] /Users/xixiao/Desktop/ppjoke_jetpack/libnetwork/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:libcommon] /Users/xixiao/Desktop/ppjoke_jetpack/libcommon/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:libcommon] /Users/xixiao/Desktop/ppjoke_jetpack/libcommon/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.databinding:databinding-adapters:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/31073a0e57cc212739f4997e886ea889/databinding-adapters-4.0.0/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/31073a0e57cc212739f4997e886ea889/databinding-adapters-4.0.0/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/1b40b10646e1bbb56fb74034648b9b9e/databinding-runtime-4.0.0/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/1b40b10646e1bbb56fb74034648b9b9e/databinding-runtime-4.0.0/AndroidManifest.xml:22:5-44
+MERGED from [com.tencent.bugly:crashreport:3.2.33] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/d23f06ed85dc74998a3a6ab00324930c/jetified-crashreport-3.2.33/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:crashreport:3.2.33] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/d23f06ed85dc74998a3a6ab00324930c/jetified-crashreport-3.2.33/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.7.3] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/b56c47970c1e191226e6350f8a416bff/jetified-nativecrashreport-3.7.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.7.3] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/b56c47970c1e191226e6350f8a416bff/jetified-nativecrashreport-3.7.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/fbee8d91505582d78dab4b49b9cc403a/jetified-viewbinding-4.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/fbee8d91505582d78dab4b49b9cc403a/jetified-viewbinding-4.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3e6bb3c4d4f30e5f344ee68dfd049280/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3e6bb3c4d4f30e5f344ee68dfd049280/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c968d98bc843f5f5ecd004ecc1ea62b3/navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c968d98bc843f5f5ecd004ecc1ea62b3/navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e78126a3ce017b20ba7b2e0646049400/material-1.1.0-alpha10/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e78126a3ce017b20ba7b2e0646049400/material-1.1.0-alpha10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/6d6bcba9f9bef21bedeeb83ca314447b/paging-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/6d6bcba9f9bef21bedeeb83ca314447b/paging-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/cc5eda12d228b0120441f187d5584b9e/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/cc5eda12d228b0120441f187d5584b9e/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c2c5fa787d66aaf40578b3071f4d283f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c2c5fa787d66aaf40578b3071f4d283f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/dfc584bb98d44671f7272140198b0d1e/jetified-viewpager2-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/dfc584bb98d44671f7272140198b0d1e/jetified-viewpager2-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e69576f74967f348b78ad3870e6b9a60/jetified-camera-extensions-1.0.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-extensions:1.0.0-alpha01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e69576f74967f348b78ad3870e6b9a60/jetified-camera-extensions-1.0.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/21e07f321d686ee6422427428d1fbfd2/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/21e07f321d686ee6422427428d1fbfd2/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.0.0-alpha01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/a6240b56e9fcd7b0b7bf5d146de8467d/jetified-camera-view-1.0.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-view:1.0.0-alpha01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/a6240b56e9fcd7b0b7bf5d146de8467d/jetified-camera-view-1.0.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3935728f04bd1a5f5c25cde6bdf7fcbb/jetified-camera-core-1.0.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-core:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3935728f04bd1a5f5c25cde6bdf7fcbb/jetified-camera-core-1.0.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/23132ce1e9bbd5749d1d381c1fea5d8f/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/23132ce1e9bbd5749d1d381c1fea5d8f/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [jp.wasabeef:glide-transformations:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3097c15b6724aedf3582386982d24203/jetified-glide-transformations-4.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [jp.wasabeef:glide-transformations:4.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3097c15b6724aedf3582386982d24203/jetified-glide-transformations-4.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/67f378d049e7b927e729a0d52cd59f45/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/67f378d049e7b927e729a0d52cd59f45/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/ce61250d0f7070aaab97d5c03ab2ab2e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/ce61250d0f7070aaab97d5c03ab2ab2e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7c534088c709ef4f962350c99f0510e9/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7c534088c709ef4f962350c99f0510e9/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/603f8204768ec04e03f1b3e543e85b89/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/603f8204768ec04e03f1b3e543e85b89/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/109eb7929d2c21321f3827b396ef7c6f/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/109eb7929d2c21321f3827b396ef7c6f/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/5dfd2e663b9c8b18251af4849131ec46/recyclerview-1.1.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/5dfd2e663b9c8b18251af4849131ec46/recyclerview-1.1.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/bbb11719e6791100720664866fdfc13b/jetified-exoplayer-ui-2.10.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.10.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/bbb11719e6791100720664866fdfc13b/jetified-exoplayer-ui-2.10.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/607115a1eafd85ccd65a595bfecfc1bb/media-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/607115a1eafd85ccd65a595bfecfc1bb/media-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/54c074c5e39c1061cef77282dab65b2a/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/54c074c5e39c1061cef77282dab65b2a/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/6c40941472a486997a18100917790e72/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/6c40941472a486997a18100917790e72/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4d3e32c2f901863288c7ff80fcf0967a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4d3e32c2f901863288c7ff80fcf0967a/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7429b8342d321250725a19af88db2235/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7429b8342d321250725a19af88db2235/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3f5e37635a712470204c0315e55f1003/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3f5e37635a712470204c0315e55f1003/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/28120aa98d624ce8fee0a8087788fd91/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/28120aa98d624ce8fee0a8087788fd91/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c1fbafa65bd45850c449ff129cec1a93/jetified-SmartRefreshLayout-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c1fbafa65bd45850c449ff129cec1a93/jetified-SmartRefreshLayout-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/6dfb5b92b7af1316fe38f4f11dc0943a/jetified-SmartRefreshHeader-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/6dfb5b92b7af1316fe38f4f11dc0943a/jetified-SmartRefreshHeader-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/58c832db834fd7e5b3ccad67f8d33bec/jetified-exoplayer-dash-2.10.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.10.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/58c832db834fd7e5b3ccad67f8d33bec/jetified-exoplayer-dash-2.10.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/0567ec7a02e0473e609a46a5eb8f1373/jetified-exoplayer-core-2.10.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.10.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/0567ec7a02e0473e609a46a5eb8f1373/jetified-exoplayer-core-2.10.4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c318c6766edaf70f62fb727156c74a21/jetified-PhotoView-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c318c6766edaf70f62fb727156c74a21/jetified-PhotoView-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/389cbd790a4c7e86ea81c66bce6c17d8/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/389cbd790a4c7e86ea81c66bce6c17d8/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/d9143d5fb766579ba5099f005b20a9e9/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/d9143d5fb766579ba5099f005b20a9e9/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/de7b0c2f4705e3cb372b76d33c6f36f6/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/de7b0c2f4705e3cb372b76d33c6f36f6/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/552d05fff7df0b1caee9db39c74659fe/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/552d05fff7df0b1caee9db39c74659fe/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c53a1cf06eec9ec8e2c1fa79d76edf7f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/c53a1cf06eec9ec8e2c1fa79d76edf7f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/124fad7feed294284b24345c102d722e/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/124fad7feed294284b24345c102d722e/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/0eaeed0f116c50443b846f22ed279353/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/0eaeed0f116c50443b846f22ed279353/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/724535e2902278ed959fd2cad81fabac/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/724535e2902278ed959fd2cad81fabac/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/f2a178a1dfd656fb19b4757d0d712846/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/f2a178a1dfd656fb19b4757d0d712846/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xixiao/Desktop/ppjoke_jetpack/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/16c4d94856b3783d9c330aa1a8801d49/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:25:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:27:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:30:9-36:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:32:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:35:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:34:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:31:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:38:9-43:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:42:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:43:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:39:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:44:9-50:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:47:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:48:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:49:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:50:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:45:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:55:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:53:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:58:9-68:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:61:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:62:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:63:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:59:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:64:13-67:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:65:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:65:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:66:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:66:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:69:9-79:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:72:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:73:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:74:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:71:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:70:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:75:13-78:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:76:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:77:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:77:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:80:9-90:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:83:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:84:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:85:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:81:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:86:13-89:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:87:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:87:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:88:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:88:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:91:9-100:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:94:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:95:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:96:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:93:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:92:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:97:13-99:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:98:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:98:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:101:9-112:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:104:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:105:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:106:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:103:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:102:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:107:13-111:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:108:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:108:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:109:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:109:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:110:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:110:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:113:9-122:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:116:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:117:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:118:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:115:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:114:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:119:13-121:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:120:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.2.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/7a6d873a52bbc22d378836db6c5a6c87/work-runtime-2.2.0/AndroidManifest.xml:120:25-95
+uses-library#androidx.camera.extensions.impl
+ADDED from [androidx.camera:camera-extensions:1.0.0-alpha01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e69576f74967f348b78ad3870e6b9a60/jetified-camera-extensions-1.0.0-alpha01/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.camera:camera-extensions:1.0.0-alpha01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e69576f74967f348b78ad3870e6b9a60/jetified-camera-extensions-1.0.0-alpha01/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.camera:camera-extensions:1.0.0-alpha01] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/e69576f74967f348b78ad3870e6b9a60/jetified-camera-extensions-1.0.0-alpha01/AndroidManifest.xml:26:13-59
+provider#androidx.camera.camera2.impl.Camera2Initializer
+ADDED from [androidx.camera:camera-camera2:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/21e07f321d686ee6422427428d1fbfd2/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:25:9-30:43
+	android:authorities
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/21e07f321d686ee6422427428d1fbfd2/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:27:13-64
+	android:multiprocess
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/21e07f321d686ee6422427428d1fbfd2/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:30:13-40
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/21e07f321d686ee6422427428d1fbfd2/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/21e07f321d686ee6422427428d1fbfd2/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha04] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/21e07f321d686ee6422427428d1fbfd2/jetified-camera-camera2-1.0.0-alpha04/AndroidManifest.xml:26:13-75
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/54c074c5e39c1061cef77282dab65b2a/room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/54c074c5e39c1061cef77282dab65b2a/room-runtime-2.1.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/54c074c5e39c1061cef77282dab65b2a/room-runtime-2.1.0/AndroidManifest.xml:26:13-74
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [com.aliyun.dpa:oss-android-sdk:2.9.4] /Users/xixiao/.gradle/caches/transforms-2/files-2.1/4b3b7367b8569ff4a1a16a0c3e1cc541/jetified-oss-android-sdk-2.9.4/AndroidManifest.xml:15:22-73

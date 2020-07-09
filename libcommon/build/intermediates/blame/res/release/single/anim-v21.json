@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/xixiao/Desktop/ppjoke_jetpack/libcommon/build/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/Users/xixiao/.gradle/caches/transforms-2/files-2.1/0125549fc652af11c4b5203a36d672fa/material-1.1.0-alpha10/res/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/xixiao/Desktop/ppjoke_jetpack/libcommon/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/xixiao/.gradle/caches/transforms-2/files-2.1/0125549fc652af11c4b5203a36d672fa/material-1.1.0-alpha10/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/xixiao/Desktop/ppjoke_jetpack/libcommon/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/xixiao/.gradle/caches/transforms-2/files-2.1/0125549fc652af11c4b5203a36d672fa/material-1.1.0-alpha10/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/xixiao/Desktop/ppjoke_jetpack/libcommon/build/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/Users/xixiao/.gradle/caches/transforms-2/files-2.1/0125549fc652af11c4b5203a36d672fa/material-1.1.0-alpha10/res/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    }
+]
